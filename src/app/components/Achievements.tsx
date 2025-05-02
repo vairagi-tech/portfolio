@@ -8,6 +8,20 @@ import Link from 'next/link';
 // Achievements data
 const achievements = [
   {
+    title: '1st Place, Infineon Hackathon',
+    organization: 'Infineon Technologies',
+    date: 'Feb 2025',
+    description: 'Designed an efficient algorithm to protect the kingdom, optimizing defense pathfinding in C++ reducing computation time by 35%.',
+    icon: <FaTrophy className="text-xl" />,
+  },
+  {
+    title: '2nd Runner-Up, Rajasthan Police Hackathon',
+    organization: 'Rajasthan Police',
+    date: 'Jan 2024',
+    description: 'Recognized for 1930 Helpline IVR automation project that improved response times and user experience for emergency services.',
+    icon: <FaMedal className="text-xl" />,
+  },
+  {
     title: 'Dynamic Programming Excellence',
     organization: 'University of Colorado Boulder',
     date: 'May 2024',

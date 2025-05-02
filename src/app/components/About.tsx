@@ -339,7 +339,7 @@ const About = () => {
     };
 
     fetchGitHubStats();
-  }, []); // Empty dependency array is now safe with the ref check
+  }, [skills]); // Add skills to the dependency array
 
   const displayedSkills = showAll ? skills : skills.slice(0, 4);
 

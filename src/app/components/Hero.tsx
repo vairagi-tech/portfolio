@@ -124,8 +124,8 @@ const Hero = () => {
                 transition={{ duration: 0.8, delay: 0.6, ease: "easeOut" }}
               >
                 Building high-quality, responsive, and user-friendly web
-                applications using modern technologies. I'm passionate about
-                solving real-world problems through clean, efficient code. Let's
+                applications using modern technologies. I&apos;m passionate about
+                solving real-world problems through clean, efficient code. Let&apos;s
                 build something impactful together.
               </motion.p>
             </div>

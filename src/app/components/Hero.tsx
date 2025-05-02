@@ -16,7 +16,7 @@ import { useState } from "react";
 const socialLinks = [
   {
     icon: <FaGithub className="text-xl" />,
-    href: "https://github.com/abhaygithub74",
+    href: "https://github.com/vairagi-tech",
     label: "GitHub",
     color: "hover:text-gray-800 dark:hover:text-gray-100",
     isEmail: false,

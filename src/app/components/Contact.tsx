@@ -72,7 +72,7 @@ const Contact = () => {
   const socialLinks = [
     { 
       icon: <FaGithub />, 
-      href: 'https://github.com/abhaygithub74', 
+      href: 'https://github.com/vairagi-tech', 
       label: 'GitHub',
       color: 'hover:text-gray-800 dark:hover:text-gray-100'
     },

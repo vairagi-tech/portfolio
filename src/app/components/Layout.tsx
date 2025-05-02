@@ -163,7 +163,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
             <div className="absolute right-4 sm:right-6 flex items-center space-x-4">
               {/* Social Links - Desktop */}
               <div className="hidden md:flex items-center space-x-3">
-                <a href="https://github.com/abhaygithub74" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
+                <a href="https://github.com/vairagi-tech" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
                   <FaGithub className="text-lg" />
                 </a>
                 <a href="https://linkedin.com/in/abhay-kumar-74w" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">

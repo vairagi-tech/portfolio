@@ -16,7 +16,7 @@ interface GitHubEvent {
   };
 }
 
-const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'abhaygithub74';
+const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'vairagi-tech';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 // Add a fallback data function to return when GitHub API fails

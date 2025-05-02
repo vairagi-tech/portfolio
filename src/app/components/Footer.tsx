@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 const Footer = () => {
   const currentYear = new Date().getFullYear();
   const socialLinks = [
-    { icon: <FaGithub />, href: 'https://github.com/nileshgithub74', label: 'GitHub' },
+    { icon: <FaGithub />, href: 'https://github.com/vairagi-tech', label: 'GitHub' },
     { icon: <FaLinkedin />, href: 'https://www.linkedin.com/in/nilesh-kumar-74w/', label: 'LinkedIn' },
     { icon: <FaTwitter />, href: 'https://x.com/nileshkumar74', label: 'Twitter' },
   ];

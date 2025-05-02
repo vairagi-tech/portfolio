@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <p className="text-sm">
-              © {currentYear} Nilesh Kumar. All rights reserved.
+              © {currentYear} Abhay Kumar. All rights reserved.
             </p>
           </div>
 

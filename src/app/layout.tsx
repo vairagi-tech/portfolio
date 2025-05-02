@@ -4,7 +4,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 
 export const metadata: Metadata = {
-  title: "Nilesh Kumar - Portfolio",
+  title: "Abhay Kumar - Portfolio",
 };
 
 export default function RootLayout({

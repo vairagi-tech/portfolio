@@ -16,28 +16,28 @@ import { useState } from "react";
 const socialLinks = [
   {
     icon: <FaGithub className="text-xl" />,
-    href: "https://github.com/nileshgithub74",
+    href: "https://github.com/abhaygithub74",
     label: "GitHub",
     color: "hover:text-gray-800 dark:hover:text-gray-100",
     isEmail: false,
   },
   {
     icon: <FaLinkedin className="text-xl" />,
-    href: "https://linkedin.com/in/nilesh-kumar-74w",
+    href: "https://linkedin.com/in/abhay-kumar-74w",
     label: "LinkedIn",
     color: "hover:text-blue-600 dark:hover:text-blue-400",
     isEmail: false,
   },
   {
     icon: <FaTwitter className="text-xl" />,
-    href: "https://x.com/nileshkumar74",
+    href: "https://x.com/abhaykumar74",
     label: "Twitter",
     color: "hover:text-blue-400 dark:hover:text-blue-300",
     isEmail: false,
   },
   {
     icon: <FaEnvelope className="text-xl" />,
-    href: "kumarnilesh843127@gmail.com",
+    href: "abhaykumarak9693@gmail.com",
     label: "Email",
     color: "hover:text-red-500 dark:hover:text-red-400",
     isEmail: true,
@@ -75,7 +75,7 @@ const Hero = () => {
           >
             <Image
               src="/profile.jpg"
-              alt="Nilesh Kumar"
+              alt="Abhay Kumar"
               width={128}
               height={128}
               className="object-cover"
@@ -104,7 +104,7 @@ const Hero = () => {
             >
               Hello, I am{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-600 via-indigo-600 to-purple-600 dark:from-teal-400 dark:via-indigo-400 dark:to-purple-400">
-                Nilesh Kumar
+                Abhay Kumar
               </span>
             </motion.h1>
             <motion.h2
@@ -124,8 +124,8 @@ const Hero = () => {
                 transition={{ duration: 0.8, delay: 0.6, ease: "easeOut" }}
               >
                 Building high-quality, responsive, and user-friendly web
-                applications using modern technologies. I’m passionate about
-                solving real-world problems through clean, efficient code. Let’s
+                applications using modern technologies. I'm passionate about
+                solving real-world problems through clean, efficient code. Let's
                 build something impactful together.
               </motion.p>
             </div>
@@ -216,7 +216,7 @@ const Hero = () => {
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-violet-700 via-purple-700 to-fuchsia-700 rounded-lg blur opacity-50 group-hover:opacity-75 transition duration-1000 group-hover:duration-200" />
                 <a
                   href="/cv.pdf"
-                  download="Nilesh_Kumar_CV.pdf"
+                  download="Abhay_Kumar_CV.pdf"
                   className="relative px-6 py-3 w-full sm:w-auto bg-transparent border-2 border-violet-700/50 text-gray-800 dark:text-white rounded-lg hover:bg-violet-700/10 transition-all duration-300 flex items-center justify-center gap-2 font-medium tracking-wide"
                 >
                   <FaDownload className="text-lg" />

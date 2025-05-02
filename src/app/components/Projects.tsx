@@ -23,7 +23,7 @@ const projects: Project[] = [
     image: '/images/ecommerce.png',
     tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
     link: 'https://ecommerce-react-2024-frontendss.vercel.app/',
-    github: 'https://github.com/nileshgithub74/Ecommerce-react-2024',
+    github: 'https://github.com/abhaygithub74/Ecommerce-react-2024',
     demo: 'https://ecommerce-react-2024-frontendss.vercel.app/'
   },
   {
@@ -32,7 +32,7 @@ const projects: Project[] = [
     image: '/images/vdieocallapp.png',
     tags: ['Next.js', 'Tyepscript', 'Tailwind CSS'],
     link: 'https://stream-flow-gules.vercel.app/',
-    github: 'https://github.com/nileshgithub74/Backend-Project',
+    github: 'https://github.com/abhaygithub74/Backend-Project',
     demo: 'https://stream-flow-gules.vercel.app/'
   },
   {
@@ -41,7 +41,7 @@ const projects: Project[] = [
     image: '/images/fearlessvoice.png',
     tags: ['Next.js', 'TypeScript', 'Motoko'],
     link: 'https://phlrf-ayaaa-aaaai-atgjq-cai.icp0.io/',
-    github: 'https://github.com/nileshgithub74/FearlessVoice-main',
+    github: 'https://github.com/abhaygithub74/FearlessVoice-main',
     demo: 'https://phlrf-ayaaa-aaaai-atgjq-cai.icp0.io/'
   }
 ];

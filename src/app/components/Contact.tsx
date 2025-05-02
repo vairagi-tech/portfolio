@@ -72,19 +72,19 @@ const Contact = () => {
   const socialLinks = [
     { 
       icon: <FaGithub />, 
-      href: 'https://github.com/nileshgithub74', 
+      href: 'https://github.com/abhaygithub74', 
       label: 'GitHub',
       color: 'hover:text-gray-800 dark:hover:text-gray-100'
     },
     { 
       icon: <FaLinkedin />, 
-      href: 'https://linkedin.com/in/nilesh-kumar-74w', 
+      href: 'https://linkedin.com/in/abhay-kumar-74w', 
       label: 'LinkedIn',
       color: 'hover:text-blue-600 dark:hover:text-blue-400'
     },
     { 
       icon: <FaTwitter />, 
-      href: 'https://twitter.com/nileshkumar74', 
+      href: 'https://twitter.com/abhaykumar74', 
       label: 'Twitter',
       color: 'hover:text-blue-400 dark:hover:text-blue-300'
     },
@@ -136,8 +136,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-gray-800 dark:text-white">Email</h4>
-                    <a href="mailto:nileshsreyansh62@gmail.com" className="text-gray-700 dark:text-gray-300 hover:text-teal-600 dark:hover:text-teal-400 transition-colors">
-                      nileshsreyansh62@gmail.com
+                    <a href="mailto:abhaykumarak9693@gmail.com" className="text-gray-700 dark:text-gray-300 hover:text-teal-600 dark:hover:text-teal-400 transition-colors">
+                      abhaykumarak9693@gmail.com
                     </a>
                   </div>
                 </div>

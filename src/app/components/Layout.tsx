@@ -120,9 +120,9 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <div className="flex items-center justify-center h-16 sm:h-20">
             <Link href="/" className="absolute left-4 sm:left-6 flex items-center text-lg sm:text-xl font-bold">
               <div className="flex items-center justify-center w-8 h-8 rounded-full bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 dark:from-indigo-400 dark:via-purple-400 dark:to-pink-400 mr-2 shadow-md">
-                <span className="text-white font-bold">N</span>
+                <span className="text-white font-bold">A</span>
               </div>
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 dark:from-indigo-400 dark:via-purple-400 dark:to-pink-400 hover:from-indigo-700 hover:via-purple-700 hover:to-pink-700 dark:hover:from-indigo-300 dark:hover:via-purple-300 dark:hover:to-pink-300 transition-all duration-300">Nilesh</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 dark:from-indigo-400 dark:via-purple-400 dark:to-pink-400 hover:from-indigo-700 hover:via-purple-700 hover:to-pink-700 dark:hover:from-indigo-300 dark:hover:via-purple-300 dark:hover:to-pink-300 transition-all duration-300">Abhay</span>
             </Link>
 
             {/* Desktop Navigation */}
@@ -163,13 +163,13 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
             <div className="absolute right-4 sm:right-6 flex items-center space-x-4">
               {/* Social Links - Desktop */}
               <div className="hidden md:flex items-center space-x-3">
-                <a href="https://github.com/nileshgithub74" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
+                <a href="https://github.com/abhaygithub74" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
                   <FaGithub className="text-lg" />
                 </a>
-                <a href="https://linkedin.com/in/nilesh-kumar-74w" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
+                <a href="https://linkedin.com/in/abhay-kumar-74w" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
                   <FaLinkedin className="text-lg" />
                 </a>
-                <a href="https://x.com/nileshkumar74" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
+                <a href="https://x.com/abhaykumar74" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-300 transition-colors duration-300">
                   <FaTwitter className="text-lg" />
                 </a>
               </div>

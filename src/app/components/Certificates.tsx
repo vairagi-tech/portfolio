@@ -8,6 +8,14 @@ import Link from 'next/link';
 // Move certificates data to a separate file for better organization
 const certificates = [
   {
+    title: 'Dynamic Programming, Greedy Algorithms',
+    issuer: 'University of Colorado Boulder',
+    date: 'May 2024',
+    description: 'Advanced algorithm design techniques including dynamic programming and greedy algorithms, with skills in algorithm analysis, problem-solving, and computational complexity.',
+    link: 'https://coursera.org/share/62d4dba1e463a0d21017941aabfe9717',
+    icon: <FaCode className="text-xl" />,
+  },
+  {
     title: 'Server side JavaScript with Node.js',
     issuer: 'NIIT',
     date: '2024',
